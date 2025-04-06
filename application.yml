@@ -1,7 +1,9 @@
 spring:
-  cloud:
-    discovery:
-      enabled: true
+  application:
+    name: config-default
+
+
+   
 
 eureka:
   client:
